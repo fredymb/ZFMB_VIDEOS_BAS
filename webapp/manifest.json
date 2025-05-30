@@ -127,6 +127,7 @@
               "contextPath": "/ZC_FMB_VIDEO",
               "variantManagement": "Page",
               "enhanceI18n": "i18n/customI18N.properties",
+              "initialLoad": true,
               "navigation": {
                 "ZC_FMB_VIDEO": {
                   "detail": {
